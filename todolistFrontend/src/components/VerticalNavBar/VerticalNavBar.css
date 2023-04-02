@@ -1,0 +1,18 @@
+.TotalNavBar{
+    width: 300px;
+    border: 2px 2px 2px solid black;
+    position: fixed;
+}
+.active{
+    font-weight: bold;
+    border-left: 5px solid skyblue;
+    background-color: lightgray;
+}
+.listsblock{
+ height: 270px;
+ overflow-y: auto;
+ scroll-behavior: auto;
+}
+.nav-link:hover{
+    background-color: lightgray;
+}

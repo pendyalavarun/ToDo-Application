@@ -1,0 +1,16 @@
+.HighPriority{
+    width: 80%;
+    position: relative;
+    border: 5px 5px 5px solid black;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: linear-gradient(135deg, #868f96 10%, #596164 100%);
+    margin-left: 20%;
+    min-height: 711px;
+}
+.addtaskform{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+   /* background-color: beige; */
+}

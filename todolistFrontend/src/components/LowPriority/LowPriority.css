@@ -1,0 +1,18 @@
+.LowPriority{
+    width: 80%;
+    position: relative;
+    border: 5px 5px 5px solid black;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: white;
+    margin-left: 20%;
+    min-height: 711px;
+    background-image: linear-gradient(135deg, #CE9FFC 10%, #7367F0 100%);
+    background-image: linear-gradient(135deg, #43e97b 10%, #38f9d7 100%);
+}
+.addtaskform{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+   /* background-color: beige; */
+}

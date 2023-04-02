@@ -1,0 +1,16 @@
+.MediumPriority{
+    width: 80%;
+    position: relative;
+    border: 5px 5px 5px solid black;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: rgba(45, 229, 229, 0.363);
+    margin-left: 20%;
+    min-height: 711px;
+}
+.addtaskform{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+   /* background-color: beige; */
+}
