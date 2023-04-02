@@ -1,7 +1,7 @@
 # ToDo-Application
 This is a Todo-Application developed using react, node, express, mysql.
 
-                                                ****  DIRECTION FOR RUNNING TODO APPLICATION   ****
+                                          ****  DIRECTION FOR RUNNING TODO APPLICATION   ****
 There are two folders called TodoFrontend and TodoBackend that comprise files for the front end (React, Javascript, Css, Bootstrap) and the back end (Nodejs, Express, Mysql) Import them.
 
                                                      **** Prerequisites ****
