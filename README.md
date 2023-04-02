@@ -13,7 +13,7 @@ Install mysql and create database named 'varundb' and a table with following att
 
 2.  COLUMNS:
 
-     Id (int) PRIMARY KEY (auto_increment)
+     id (int) PRIMARY KEY (auto_increment)
      
      Task (varchar(1000)) NOTNULL 
     
