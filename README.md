@@ -49,6 +49,10 @@ After Starting the server you will be directed to landing page i.e., the all tas
      
      Simply click the checkbox next to each job to complete the one that isn't finished and vice versa.(if it doesnot happen just reload the page)
 
+=> Delete a task:
+
+    Click on the delete icon to delete the respective task. (If it doesnot get deleted just reload the page)
+
 => See only High Priority Tasks:
      
      Just click on the High Priority option in the sidebar and it will show all the High Priority tasks.
